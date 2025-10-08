@@ -1,3 +1,1 @@
-yello firs repo firs change
-confl brnch
-hello
+conflic resolved
